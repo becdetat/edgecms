@@ -14,4 +14,8 @@ In fact it is so minimal it consists of this readme. Written on an iPod because 
 - should not rely on asp.net
 - core should not try to manage images or attachments per content page
 - no need for templates, that should be the concern of the consumer
-- 
+- core should work on monotouch
+- monotouch (iOS) compatible proxy 'server' component
+	- imagine being able to pull back an entire site for local storage, then each request goes through the proxy, boosting performance and adding offline capability
+
+
